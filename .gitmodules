@@ -1,0 +1,3 @@
+[submodule "load-balanced-web-cdk"]
+	path = load-balanced-web-cdk
+	url = https://github.com/pblxm/load-balanced-web-cdk.git
