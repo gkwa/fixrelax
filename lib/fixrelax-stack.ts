@@ -9,7 +9,6 @@ export class FixrelaxStack extends Stack {
   constructor(scope: Construct, id: string, props?: StackProps) {
     super(scope, id, props);
 
-
     // Web AMI
     const imageId = 'ami-<xxxxxxxxx>'
 
